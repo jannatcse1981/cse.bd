@@ -25,6 +25,6 @@ I love connecting with people and sharing my work — so here are all my social 
    ```bash
    git clone https://github.com/jannatcse1981/jannatcse-forloops-.git
 
-## 📧 Contact
 Maintainer: **Fabiha Jannat**  
-Email: [fabiha.jannat@example.com](mailto:fabiha.jannat@example.com)
+Email: [burcinkiabey@gmail.com](mailto:burcinkiabey@gmail.com)
+
